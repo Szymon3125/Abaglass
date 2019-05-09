@@ -60,32 +60,39 @@ a.navbar-brand {
 {
     list-style-type: circle;
 }
+
 .italic
 {
     font-style: italic;
 }
+
 .pogrubiony1
 {
     font-weight: bold;
 }
+
 main
 {
     text-align: center;
 }
+
 footer
 {
     position: relative;
     bottom: 3px;
     width: 100%;
 }
+
 .footer img
 {
     opacity: 0.5;
 }
+
 .footer img:hover
 {
     opacity: 1;
 }
+
 .przerwa 
 {
     border-radius: 5px;
@@ -93,11 +100,13 @@ footer
     margin-left: auto;
     margin-right: auto;
 }
+
 .footertext
 {
     margin-left: auto;
     margin-right: auto;
 }
+
 #_resimage {
     width: 100%;
     height: 100%;
